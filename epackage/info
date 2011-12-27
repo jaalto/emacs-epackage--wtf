@@ -1,0 +1,22 @@
+Package: wtf
+Section: languages
+License: GPL-2+
+Depends: emacs (>= 21)
+Status: stable
+Compat:
+Maintainer: Jari Aalto <jari.aalto@cante.net>
+Bugs:
+Upstream: Michael Olson <mwolson@gnu.org>
+Upstream-Bugs:
+Vcs-Type: http
+Vcs-Url: http://mwolson.org/static/dist/elisp/wtf.el
+Vcs-Browser:
+Homepage:
+Wiki:
+Commentary: wtf.el
+Description: look up conversational and computing acronyms
+ Provides commands to look up, add and remove the definitions of popular
+ conversational and computing acronyms like AFAIC, FWIW etc. Start
+ look up with M-x wtf-is.
+ .
+ Note: 2011-12-27 the code hasn't been touched since 2007.
