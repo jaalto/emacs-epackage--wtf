@@ -1,7 +1,7 @@
 
-;;;### (autoloads (wtf-is wtf-remove wtf-add) "../wtf" "wtf.el"
+;;;### (autoloads (wtf-is wtf-remove wtf-add) "../wtf" "../wtf.el"
 ;;;;;;  (20218 11424))
-;;; Generated autoloads from wtf.el
+;;; Generated autoloads from ../wtf.el
 
 (autoload 'wtf-add "wtf" "\
 Add ACRONYM and its DEFINITION to the list of custom associations.
