@@ -1,7 +1,7 @@
 
-;;;### (autoloads (wtf-is wtf-remove wtf-add) "wtf" "../wtf.el" (18417
-;;;;;;  330))
-;;; Generated autoloads from ../wtf.el
+;;;### (autoloads (wtf-is wtf-remove wtf-add) "../wtf" "wtf.el"
+;;;;;;  (20218 11424))
+;;; Generated autoloads from wtf.el
 
 (autoload 'wtf-add "wtf" "\
 Add ACRONYM and its DEFINITION to the list of custom associations.
@@ -31,4 +31,3 @@ DEF refers to the definition associated with ACRONYM in `wtf-alist'.
 \(fn ACRONYM)" t nil)
 
 ;;;***
-(provide 'wtf-epkg-0loaddefs)
