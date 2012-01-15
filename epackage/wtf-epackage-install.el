@@ -15,4 +15,4 @@
 (autoload 'wtf-add                              "wtf" "" t)
 (autoload 'wtf-remove                           "wtf" "" t)
 (autoload 'wtf-is                               "wtf" "" t)
-(provide 'wtf-epkg-install)
+(provide 'wtf-epackage-install)
